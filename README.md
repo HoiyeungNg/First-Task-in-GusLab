@@ -6,11 +6,14 @@
 ## 2020 04.04 10:30 a.m. to 12:00 3:00 p.m. to 5:55 p.m. 
 ### 终于有整块的时间，今天只做一件事。
 ## 2020 04.07 9:40 p.m. to midnignt
-### begin focusing on network sci and topology on [CS224W](http://web.stanford.edu/class/cs224w/) 
+### begin focusing on network sci and topology
+[CS224W](http://web.stanford.edu/class/cs224w/) 
+To understand some terms 
+'fully connected graph structure' 'hamiltonian walk' 'mixed effect model'
 
 
-
-#### Possible Resouces: [FirstCourseNetworkScience](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
+#### Possible Resouces: 
+[FirstCourseNetworkScience](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
 
 
 
