@@ -10,7 +10,7 @@
 [CS224W](http://web.stanford.edu/class/cs224w/) 
 To understand some terms 
 'fully connected graph structure' 'hamiltonian walk' 'mixed effect model'
-## 2020 04.09 6:00 a.m. to 12:00 p.m.
+## 2020 04.09 6:00 a.m. to 11:50 p.m.
 ### Modeling
 
 
