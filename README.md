@@ -12,6 +12,8 @@ To understand some terms
 'fully connected graph structure' 'hamiltonian walk' 'mixed effect model'
 ## 2020 04.09 6:00 a.m. to 11:50 p.m.
 ### Modeling
+## 2020.04.14 11:00 a.m. to 
+### 前几天有事耽误，这次要一鼓作气直到完成
 
 
 
