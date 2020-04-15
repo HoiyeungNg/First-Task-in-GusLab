@@ -14,6 +14,8 @@ To understand some terms
 ### Modeling
 ## 2020.04.14 11:00 a.m. to 
 ### 前几天有事耽误，这次要一鼓作气直到完成
+## 2020.04.15 11:00 a.m. to 11:55 a.m.
+### Read Stanford's paper on graph learning
 
 
 
