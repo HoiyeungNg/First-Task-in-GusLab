@@ -17,10 +17,11 @@
 
 #### Possible Resouces: 
 [FirstCourseNetworkScience](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
-[CS224W](http://web.stanford.edu/class/cs224w/)
-[UCLA: Introduction to Linear Mixed Models - IDRE Stats](https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/)
-[Standford: Linear Mixed Models](https://web.stanford.edu/class/psych252/section/Mixed_models_tutorial.html)
-[ETH Zürich: Linear Mixed-Effects Models](https://stat.ethz.ch/R-manual/R-devel/library/nlme/html/lme.html)
+ [CS224W](http://web.stanford.edu/class/cs224w/)
+ [UCLA: Introduction to Linear Mixed Models - IDRE Stats](https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/)
+ [Standford: Linear Mixed Models](https://web.stanford.edu/class/psych252/section/Mixed_models_tutorial.html)
+ [ETH Zürich: Linear Mixed-Effects Models](https://stat.ethz.ch/R-manual/R-devel/library/nlme/html/lme.html)
+ [Stata](https://www.stata.com/new-in-stata/python-integration/)
 #### Other findings: 
 [1](https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons)
 [2](https://en.wikipedia.org/wiki/Spiking_neural_network)
