@@ -9,18 +9,18 @@
 ### Begin focusing on network sci and topology To understand some terms 'fully connected graph structure' 'hamiltonian walk' 'mixed effect model'
 ## 2020 04.09 6:00 a.m. to 11:50 p.m.
 ### Modeling
-## 2020.04.14 11:00 a.m. to 
-### 前几天有事耽误，这次要一鼓作气直到完成
 ## 2020.04.15 11:00 a.m. to 11:55 a.m.
 ### To understand some terms 'graph leaning' 'Pearson’s correlation coefﬁcient' 'Clustering Coefficient'
-
+## 2020.04.19 09:00 a.m. to 9:55 a.m.
+### Further Reading on 'linear mixed model'
 
 
 #### Possible Resouces: 
 [FirstCourseNetworkScience](https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/)
 [CS224W](http://web.stanford.edu/class/cs224w/)
-
-
+[UCLA: Introduction to Linear Mixed Models - IDRE Stats](https://stats.idre.ucla.edu/other/mult-pkg/introduction-to-linear-mixed-models/)
+[Standford: Linear Mixed Models](https://web.stanford.edu/class/psych252/section/Mixed_models_tutorial.html)
+[ETH Zürich: Linear Mixed-Effects Models](https://stat.ethz.ch/R-manual/R-devel/library/nlme/html/lme.html)
 #### Other findings: 
 [1](https://en.wikipedia.org/wiki/List_of_animals_by_number_of_neurons)
 [2](https://en.wikipedia.org/wiki/Spiking_neural_network)
