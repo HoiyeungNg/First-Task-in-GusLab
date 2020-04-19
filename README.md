@@ -12,7 +12,7 @@
 ## 2020.04.15 11:00 a.m. to 11:55 a.m.
 ### To understand some terms 'graph leaning' 'Pearson’s correlation coefﬁcient' 'Clustering Coefficient'
 ## 2020.04.19 09:00 a.m. to 9:55 a.m.
-### Further Reading on 'linear mixed model'
+### Further Reading on 'linear mixed model' Maybe try Stata later on.
 
 
 #### Possible Resouces: 
